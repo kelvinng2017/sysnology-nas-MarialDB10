@@ -1,7 +1,7 @@
 - 查詢賬號
-    - 輸入 select user()[]
-    - ![test](./image/image1.jpg)
-    <img src = "./image/image1.jpg"/>
+    - 輸入 select user();
+    ![test](./image/mysql註冊用戶.jpg)
+
 
 
 

@@ -1,6 +1,6 @@
 - 查詢賬號
     - 輸入 select user();
-    ![test](./image/mysql註冊用戶.jpg)
+    - ![test](./image/mysql註冊用戶.jpg)
 
 
 
